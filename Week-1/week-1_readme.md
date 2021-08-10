@@ -2,9 +2,11 @@
 
 ----
 
-Lecture Materials
-
 [syllabus](https://github.com/mguner/601_Fall21/blob/main/sylabus.pdf)
+
+Prep Materials
+
+[Python Syntax and Semantics: Ch 3,4 and 5](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
 
 [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 
